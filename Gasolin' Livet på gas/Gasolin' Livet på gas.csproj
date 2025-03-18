@@ -7,4 +7,8 @@
     <RootNamespace>Gasolin__Livet_på_gas</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\StyleSheet.css" />
+  </ItemGroup>
+
 </Project>
